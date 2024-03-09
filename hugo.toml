@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = '犀哥的網站JinDiamondCo'
+title = '犀哥JinDiamondCo'
 theme = 'lightbi-hugo'
