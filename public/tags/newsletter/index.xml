@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>newsletter on My New Hugo Site</title>
+    <title>newsletter on 犀哥的網站</title>
     <link>https://example.org/tags/newsletter/</link>
-    <description>Recent content in newsletter on My New Hugo Site</description>
+    <description>Recent content in newsletter on 犀哥的網站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
