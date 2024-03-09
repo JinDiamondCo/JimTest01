@@ -1,5 +1,5 @@
 ---
-title: Build a Hugo Blog
+title: 建立一個HUGO部落格
 date: 2021-01-31
 tags: ["hugo","blog"]
 image : "/img/posts/img-2.jpg"
