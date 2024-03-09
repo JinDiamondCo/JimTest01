@@ -1,9 +1,9 @@
 ---
-title: How to use this Hugo theme ?
+title: 如何使用HUGO THEME?
 date: 2021-02-02
 tags: ["hugo","blog"]
 image : "/img/posts/img-3.jpg"
-Description  : "After downloding the theme, uzip the file and go to the'lightbi-hugo-master' folder. Open the folder in you editor..."
+Description  : "加入一段文字後做為區隔修改前後After downloding the theme, uzip the file and go to the'lightbi-hugo-master' folder. Open the folder in you editor..."
 featured: true
 ---
 

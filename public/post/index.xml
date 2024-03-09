@@ -9,7 +9,7 @@
     <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to use this Hugo theme ?</title>
+      <title>如何使用HUGO THEME?</title>
       <link>https://example.org/post/2020/jan/use-this-theme/</link>
       <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://example.org/post/2020/jan/use-this-theme/</guid>
